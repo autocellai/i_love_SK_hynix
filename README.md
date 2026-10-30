@@ -33,4 +33,4 @@
 
 ## 출처
 
-상세 자료는 [KangMo-coder/SK_hynix_hackerton](https://github.com/KangMo-coder/SK_hynix_hackerton)에서 가져와 참고했습니다. 원 저장소에 명시적인 라이선스가 확인되지 않았으므로 그 사실을 기록하며, 이 저장소가 원 자료에 대한 재배포 권한을 보증하는 것은 아닙니다. 루트 문서와 SKILL.md는 본 프로젝트의 목표와 확인된 조건에 맞게 새로 작성했습니다.
+상세 자료는 [KangMo-coder/SK_hynix_hackerton](https://github.com/KangMo-coder/SK_hynix_hackerton)에서 가져와 참고했습니다. 루트 문서와 SKILL.md는 본 프로젝트의 목표와 확인된 조건에 맞게 새로 작성했습니다.

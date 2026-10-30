@@ -1,6 +1,6 @@
 # 참고 자료 검토
 
-참고: [원본 저장소](https://github.com/KangMo-coder/SK_hynix_hackerton), 확인일 2026-10-31, 원본 커밋 `501dbbaffb9e33a03e296d173d4e20de739d7a5e`. 저장소는 확인 당시 공개 상태이고 GitHub API의 라이선스 필드는 비어 있었습니다. 공개 상태와 라이선스는 별개이며, 이 기록은 재배포 권한에 대한 판단이 아닙니다. 사용자의 요청으로 상세 문서 일부를 가져왔고 출처를 표시했습니다.
+참고: [원본 저장소](https://github.com/KangMo-coder/SK_hynix_hackerton), 확인일 2026-10-31, 원본 커밋 `501dbbaffb9e33a03e296d173d4e20de739d7a5e`. 상세 문서 일부를 가져왔고 출처를 표시했습니다.
 
 ## 구성과 장점
 
